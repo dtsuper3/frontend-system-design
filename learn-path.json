@@ -1,0 +1,582 @@
+[
+    {
+        "title": "1. Security",
+        "content": [
+            {
+                "id": 1,
+                "heading": "Important Guidelines",
+                "description": "Important guidelines for Namaste Frontend System Design"
+            },
+            {
+                "id": 2,
+                "heading": "Security - Akshay & Chirag's ExperiencePreview",
+                "description": "Akshay and Chirag are sharing their experience on security."
+            },
+            {
+                "id": 3,
+                "heading": "Security Overview",
+                "description": "Journey through crucial security principles, setting the foundation for a secure frontend. This foundational episode introduces pivotal concepts shaping the security landscape."
+            },
+            {
+                "id": 4,
+                "heading": "Cross-site Scripting (XSS)",
+                "description": "Discover the nuances of XSS vulnerabilities, empowering you to fortify your frontend against malicious script injections that threaten user security."
+            },
+            {
+                "id": 5,
+                "heading": "iFrame Protection",
+                "description": "Secure your frontend against iFrame-based threats by mastering techniques to safeguard embedded content and prevent potential vulnerabilities."
+            },
+            {
+                "id": 6,
+                "heading": "Security Headers",
+                "description": "Implement security headers effectively to fortify your frontend against various threats, leveraging key configurations for enhanced protection."
+            },
+            {
+                "id": 7,
+                "heading": "Client-side Security",
+                "description": "Master best practices and tools for ensuring robust client-side security in your frontend architecture."
+            },
+            {
+                "id": 8,
+                "heading": "Secure Communication (HTTPs)",
+                "description": "Safeguard data transfer using advanced HTTP security measures, ensuring secure communication in your frontend applications."
+            },
+            {
+                "id": 9,
+                "heading": "Dependency Security",
+                "description": "Learn to identify and mitigate vulnerabilities in third-party dependencies, fortifying your frontend against potential risks."
+            },
+            {
+                "id": 10,
+                "heading": "Compliance & Regulation",
+                "description": "Navigate complex compliance standards, ensuring your frontend adheres to regulations, mitigating legal and security risks effectively."
+            },
+            {
+                "id": 11,
+                "heading": "Input Validation and Sanitization",
+                "description": "Master the art of input validation and sanitization, safeguarding your frontend against various security threats originating from user inputs."
+            },
+            {
+                "id": 12,
+                "heading": "Server-Side Request Forgery (SSRF)",
+                "description": "Identify and counter SSRF threats, ensuring robust security for your frontend servers against unauthorized requests."
+            },
+            {
+                "id": 13,
+                "heading": "Server-side JavaScript Injection (SSJI)",
+                "description": "Protect your frontend against malicious server-side JavaScript injections, preserving system integrity."
+            },
+            {
+                "id": 14,
+                "heading": "Feature Policy | Permissions-Policy",
+                "description": "Leverage feature and permissions policies for strengthened frontend security, managing browser behaviors and permissions effectively."
+            },
+            {
+                "id": 15,
+                "heading": "Subresource Integrity (SRI)",
+                "description": "Ensure resource integrity by implementing SRI, safeguarding resources loaded into your frontend against tampering."
+            },
+            {
+                "id": 16,
+                "heading": "Cross-Origin Resource Sharing (CORS)",
+                "description": "Manage CORS effectively for secure cross-origin data sharing within your frontend applications."
+            },
+            {
+                "id": 17,
+                "heading": "Cross-Site Request Forgery (CSRF)",
+                "description": "Prevent Cross-Site Request Forgery (CSRF) attacks for enhanced security."
+            }
+        ]
+    },
+    {
+        "title": "2. Networking",
+        "content": [
+            {
+                "id": 1,
+                "heading": "Networking - Akshay & Chirag's ExperiencePreview",
+                "description": "Akshay and Chirag are sharing their experience on Networking."
+            },
+            {
+                "id": 2,
+                "heading": "How the Web Works",
+                "description": "Explore the fundamental mechanics powering the internet, unveiling the intricate workings behind web functionality."
+            },
+            {
+                "id": 3,
+                "heading": "Communication Protocols",
+                "description": "Delve into diverse communication protocols shaping internet interactions, laying the groundwork for efficient data exchange."
+            },
+            {
+                "id": 4,
+                "heading": "REST APIs",
+                "description": "Uncover the principles of REST APIs, mastering the art of building robust and scalable interfaces for web applications."
+            },
+            {
+                "id": 5,
+                "heading": "GraphQL",
+                "description": "Explore the power of GraphQL, enabling efficient data querying and manipulation for modern web applications."
+            },
+            {
+                "id": 6,
+                "heading": "gRPC ",
+                "description": "Master gRPC, a high-performance remote procedure call framework, optimizing communication between distributed systems."
+            }
+        ]
+    },
+    {
+        "title": "3. Testing",
+        "content": [
+            {
+                "id": 1,
+                "heading": "Testing - Akshay & Chirag's ExperiencePreview",
+                "description": "Akshay and Chirag are sharing their experience on Testing."
+            },
+            {
+                "id": 2,
+                "heading": "Testing Overview",
+                "description": "Explore the pivotal role of testing in frontend development, grasping the fundamentals shaping robust testing strategies."
+            },
+            {
+                "id": 3,
+                "heading": "Unit & Integration Testing",
+                "description": "Master the art of unit testing, dissecting individual components to ensure their functionality in isolation."
+            },
+            {
+                "id": 4,
+                "heading": "E2E and Automation Testing",
+                "description": "Master end-to-end testing methodologies to simulate user scenarios, ensuring holistic frontend functionality."
+            },
+            {
+                "id": 5,
+                "heading": "A/B Testing",
+                "description": "Discover A/B testing strategies to compare variations and optimize frontend design and functionality."
+            },
+            {
+                "id": 6,
+                "heading": "Performance Testing",
+                "description": "Performance testing ensures software functions optimally under diverse conditions, simulating scenarios to identify and address bottlenecks, guaranteeing a seamless user experience."
+            },
+            {
+                "id": 7,
+                "heading": "Test-Driven Development Overview",
+                "description": "Understand the principles and advantages of test-driven development (TDD) as a foundational approach in frontend design."
+            },
+            {
+                "id": 8,
+                "heading": "Security Testing",
+                "description": "Security testing safeguards software by detecting and addressing vulnerabilities, ensuring data protection and resistance against cyber threats."
+            },
+            {
+                "id": 9,
+                "heading": "[BONUS] Namaste React - Time for Test",
+                "description": "Reliability is paramount, and in this episode, we cover testing for React components. You'll learn how to ensure your components work as expected and your app remains robust."
+            }
+        ]
+    },
+    {
+        "title": "4. Communication",
+        "content": [
+            {
+                "id": 1,
+                "heading": "Communication - Akshay & Chirag's ExperiencePreview",
+                "description": "Akshay and Chirag are sharing their experience with Communication."
+            },
+            {
+                "id": 2,
+                "heading": "Communication Overview",
+                "description": "Explore the foundational aspects of communication protocols, shaping seamless data exchange in modern frontend systems."
+            },
+            {
+                "id": 3,
+                "heading": "Short Polling",
+                "description": "Learn the short polling technique to acquire updated data at regular intervals, optimizing real-time updates in frontend applications."
+            },
+            {
+                "id": 4,
+                "heading": "Long Polling",
+                "description": "Understand long polling mechanisms, facilitating continuous connections to servers for real-time data updates in frontend interfaces."
+            },
+            {
+                "id": 5,
+                "heading": "Web Sockets",
+                "description": "Master Web Sockets for establishing persistent, bidirectional communication channels between clients and servers in frontend systems."
+            },
+            {
+                "id": 6,
+                "heading": "Server Side Events",
+                "description": "Explore Server-Sent Events enabling servers to push data to frontend clients, facilitating seamless real-time updates."
+            },
+            {
+                "id": 7,
+                "heading": "WebHooks",
+                "description": "Grasp WebHooks' capabilities in facilitating instant notifications and triggering events in frontend systems, enhancing responsiveness."
+            }
+        ]
+    },
+    {
+        "title": "5. Database & Caching",
+        "content": [
+            {
+                "id": 1,
+                "heading": "Database & Caching - Akshay & Chirag's ExperiencePreview",
+                "description": "Akshay and Chirag are sharing their experience with Databases and caching."
+            },
+            {
+                "id": 2,
+                "heading": "Database & Caching Overview",
+                "description": "Explore the foundational aspects of databases and caching, pivotal for efficient data storage and retrieval in frontend systems."
+            },
+            {
+                "id": 3,
+                "heading": "Local Storage",
+                "description": "Master local storage techniques for storing persistent data within the user's browser, enhancing offline capabilities."
+            },
+            {
+                "id": 4,
+                "heading": "Session Storage",
+                "description": "Understand session storage mechanisms for storing temporary data within the user's browser session, ensuring data availability during the session."
+            },
+            {
+                "id": 5,
+                "heading": "Cookie Storage",
+                "description": "Grasp cookie storage methods for managing and storing small pieces of data in the user's browser, facilitating personalized experiences."
+            },
+            {
+                "id": 6,
+                "heading": "Indexed DB",
+                "description": "Master Indexed DB, enabling frontend applications to manage large amounts of structured data within the user's browser."
+            },
+            {
+                "id": 7,
+                "heading": "Normalization",
+                "description": "Understand normalization principles for organizing data in databases, optimizing data storage and retrieval efficiency."
+            },
+            {
+                "id": 8,
+                "heading": "HTTP Caching",
+                "description": "Grasp HTTP caching methodologies for storing web server responses in browsers, optimizing data retrieval and system performance."
+            },
+            {
+                "id": 9,
+                "heading": "Service Working Caching",
+                "description": "Master service working caching techniques for storing static assets and enhancing the offline capabilities of frontend applications."
+            },
+            {
+                "id": 10,
+                "heading": "API Caching",
+                "description": "Understand API caching strategies for caching API responses, reducing server load and enhancing frontend application responsiveness."
+            },
+            {
+                "id": 11,
+                "heading": "State Management",
+                "description": "Explore state management techniques for maintaining and managing application states, ensuring seamless user experiences in frontend systems."
+            }
+        ]
+    },
+    {
+        "title": "6. Logging & Monitoring",
+        "content": [
+            {
+                "id": 1,
+                "heading": "Logging And Monitoring - Akshay & Chirag's ExperiencePreview",
+                "description": "Akshay and Chirag are sharing their experience on Logging And Monitoring."
+            },
+            {
+                "id": 2,
+                "heading": "Logging & Monitoring Overview",
+                "description": "Explore the foundational principles of logging and monitoring, vital for maintaining the health and performance of frontend systems."
+            },
+            {
+                "id": 3,
+                "heading": "Telemetry",
+                "description": "Master telemetry methodologies for collecting and analyzing frontend system data, enabling informed decision-making."
+            },
+            {
+                "id": 4,
+                "heading": "Alerting",
+                "description": "Understand alerting mechanisms, ensuring timely notifications for potential issues or anomalies in frontend systems."
+            },
+            {
+                "id": 5,
+                "heading": "Fixing",
+                "description": "Grasp effective strategies and best practices for addressing issues and anomalies detected in frontend systems through monitoring."
+            }
+        ]
+    },
+    {
+        "title": "7. Performance",
+        "content": [
+            {
+                "id": 1,
+                "heading": "Performance Overview ",
+                "description": "Explore the fundamentals of performance optimization crucial for enhancing the speed and efficiency of frontend systems."
+            },
+            {
+                "id": 2,
+                "heading": "Performance Importance",
+                "description": "It is crucial to prioritize performance when developing software or web applications. This can greatly affect the user experience and overall success of the product."
+            },
+            {
+                "id": 3,
+                "heading": "Performance Monitoring",
+                "description": "Grasp the importance of performance monitoring for tracking, analyzing, and optimizing frontend system performance."
+            },
+            {
+                "id": 4,
+                "heading": "Performance Tools",
+                "description": "Explore various tools and utilities dedicated to optimizing and measuring frontend system performance."
+            },
+            {
+                "id": 5,
+                "heading": "Network Optimization",
+                "description": "Understand network optimization strategies for minimizing latency and optimizing data transfer in frontend applications."
+            },
+            {
+                "id": 6,
+                "heading": "Rendering Pattern",
+                "description": "Understand different rendering patterns, enabling efficient rendering and improving user experience in frontend applications."
+            }
+        ]
+    },
+    {
+        "title": "8. Accessibility",
+        "content": [
+            {
+                "id": 1,
+                "heading": "Accessibility Overview",
+                "description": "Learn vital accessibility principles for inclusive frontend design."
+            },
+            {
+                "id": 2,
+                "heading": "Keyboard Accessibility",
+                "description": "Optimize frontend interfaces for keyboard navigation."
+            },
+            {
+                "id": 3,
+                "heading": "Screen Reader",
+                "description": "Develop interfaces compatible with screen readers."
+            },
+            {
+                "id": 4,
+                "heading": "Focus Management",
+                "description": "Explore the importance of focus management and colour contrast in front-end design."
+            },
+            {
+                "id": 5,
+                "heading": "Color Contrast",
+                "description": "Explore the importance of colour contrast in front-end design."
+            },
+            {
+                "id": 6,
+                "heading": "Accessibility Tools",
+                "description": "Let's learn about tools to improve accessibility."
+            },
+            {
+                "id": 7,
+                "heading": "How to fix accessibility",
+                "description": "Learn how to improve website accessibility using both manual and automated testing tools."
+            }
+        ]
+    },
+    {
+        "title": "9. Low Level Design",
+        "content": [
+            {
+                "id": 1,
+                "heading": "Component Design",
+                "description": "Grasp modular component-based design techniques for frontend applications."
+            },
+            {
+                "id": 2,
+                "heading": "Config driven UI",
+                "description": "This lightning talk introduces config-driven UI"
+            },
+            {
+                "id": 3,
+                "heading": "Shimmer UI",
+                "description": "Shimmer UI: A Better Way to Show Loading States"
+            },
+            {
+                "id": 4,
+                "heading": "Routing & Protected Routes",
+                "description": "Master seamless navigation techniques in frontend interfaces."
+            },
+            {
+                "id": 5,
+                "heading": "State Management + Libraries",
+                "description": "Understand complex state handling in frontend systems."
+            },
+            {
+                "id": 6,
+                "heading": "Multi Language Support",
+                "description": "How does multi-language support work?"
+            },
+            {
+                "id": 7,
+                "heading": "Infinite Scroll",
+                "description": "Implement dynamic content loading techniques in frontend interfaces."
+            },
+            {
+                "id": 8,
+                "heading": "Accordion",
+                "description": "A user interface device that\u2019s frequently used in web and mobile applications to arrange and show content in a user-friendly and space-efficient way."
+            },
+            {
+                "id": 9,
+                "heading": "Reddit Nested Comments",
+                "description": "Design threaded discussions for frontend commenting systems."
+            },
+            {
+                "id": 10,
+                "heading": "Pagination",
+                "description": "Enable user-friendly content browsing through pagination."
+            },
+            {
+                "id": 11,
+                "heading": "Autocomplete & Search Bar",
+                "description": "Implement efficient data retrieval with autocomplete and search functionalities."
+            }
+        ]
+    },
+    {
+        "title": "10. High Level Design",
+        "content": [
+            {
+                "id": 1,
+                "heading": "HLD Overview",
+                "description": "Grasp essentials of high-level design principles."
+            },
+            {
+                "id": 2,
+                "heading": "HLD - Photo Sharing App (Instagram)",
+                "description": "Design frontend for photo sharing."
+            },
+            {
+                "id": 3,
+                "heading": "HLD - Social Media Feed (Facebook, Twitter)",
+                "description": "Architect frontend for social media feeds."
+            },
+            {
+                "id": 4,
+                "heading": "HLD - E-commerce App (Amazon, Flipkart)",
+                "description": "Architect frontend for e-commerce platforms."
+            },
+            {
+                "id": 5,
+                "heading": "HLD - Video Streaming (Netflix, HotStar)",
+                "description": "Design frontend for video streaming."
+            },
+            {
+                "id": 6,
+                "heading": "HLD - Google Docs",
+                "description": "Architect frontend for collaborative documents."
+            },
+            {
+                "id": 7,
+                "heading": "HLD - Google Sheets",
+                "description": "Design frontend for collaborative spreadsheets."
+            },
+            {
+                "id": 8,
+                "heading": "HLD - Diagram Tools (Excalidraw)",
+                "description": "Architect frontend for diagramming."
+            },
+            {
+                "id": 9,
+                "heading": "HLD - Music Streaming (Spotify)",
+                "description": "Design frontend for music streaming."
+            },
+            {
+                "id": 10,
+                "heading": "HLD - Live Commentary (CricInfo, Crickbuzz)",
+                "description": "Architect frontend for live commentary."
+            },
+            {
+                "id": 11,
+                "heading": "HLD - Cab Services (Uber, Ola)",
+                "description": "Design frontend for cab services."
+            },
+            {
+                "id": 12,
+                "heading": "HLD - Analytics Dashboard (Google Analytics)",
+                "description": "Architect frontend for analytics."
+            }
+        ]
+    },
+    {
+        "title": "11. Bonus Masterclass",
+        "content": [
+            {
+                "id": 1,
+                "heading": "Bonus - Salary Negotiation Masterclass",
+                "description": "Salary Negotiation Masterclass"
+            },
+            {
+                "id": 2,
+                "heading": "Bonus - Resume Masterclass",
+                "description": "Resume Masterclass"
+            },
+            {
+                "id": 3,
+                "heading": "Bonus - Personal Branding Masterclass",
+                "description": "Personal Branding Masterclass"
+            },
+            {
+                "id": 4,
+                "heading": "Bonus - LinkedIn Masterclass",
+                "description": "LinkedIn Masterclass"
+            }
+        ]
+    },
+    {
+        "title": "12. Bonus Interview Questions",
+        "content": [
+            {
+                "id": 1,
+                "heading": "Security Interview Questions",
+                "description": "Practice interview questions of security."
+            },
+            {
+                "id": 2,
+                "heading": "Communication Protocol Interview Questions",
+                "description": "Communication Protocol Interview Questions"
+            },
+            {
+                "id": 3,
+                "heading": "Database & Caching Interview Questions",
+                "description": "Database & Caching Interview Questions"
+            },
+            {
+                "id": 4,
+                "heading": "Logging & Monitoring Interview Questions",
+                "description": "Interview Questions for Logging & Monitoring"
+            },
+            {
+                "id": 5,
+                "heading": "Networking Interview Questions",
+                "description": "Interview Questions for Networking"
+            }
+        ]
+    },
+    {
+        "title": "13. Offline Support",
+        "content": [
+            {
+                "id": 1,
+                "heading": "Offline Support Overview",
+                "description": "Explore the fundamentals of offline support mechanisms, crucial for ensuring seamless functionality in frontend applications without an internet connection."
+            },
+            {
+                "id": 2,
+                "heading": "Progressive Web Applications (PWAs)",
+                "description": "Master PWAs, enabling frontend applications to offer app-like experiences with offline capabilities, enhancing user engagement."
+            },
+            {
+                "id": 3,
+                "heading": "Service Workers",
+                "description": "Grasp the role of service workers in enabling offline functionalities and background synchronization for frontend applications."
+            }
+        ]
+    }    
+]
